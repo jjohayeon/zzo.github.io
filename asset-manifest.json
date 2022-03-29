@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jjohayeon/zzo.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/jjohayeon/zzo.github.io.git/static/js/main.c49d858a.js",
+    "static/js/787.23170c61.chunk.js": "/jjohayeon/zzo.github.io.git/static/js/787.23170c61.chunk.js",
+    "index.html": "/jjohayeon/zzo.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/jjohayeon/zzo.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.c49d858a.js.map": "/jjohayeon/zzo.github.io.git/static/js/main.c49d858a.js.map",
+    "787.23170c61.chunk.js.map": "/jjohayeon/zzo.github.io.git/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c49d858a.js"
+  ]
+}
